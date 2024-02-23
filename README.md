@@ -2,10 +2,10 @@
   Hey there!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=darshilshukla26&theme=black-ice&hide_border=true&type=png" alt="GitHub Streak" /></a>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=darshilshukla26&theme=black-ice&hide_border=true&type=png" alt="GitHub Streak" /></a>
 <div id="badges">
   <a href="www.linkedin.com/in/darshil-shukla-943847202">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
