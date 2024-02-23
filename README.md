@@ -1,3 +1,4 @@
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=darshilshukla26&theme=black-ice&hide_border=true&type=png" alt="GitHub Streak" /></a>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
