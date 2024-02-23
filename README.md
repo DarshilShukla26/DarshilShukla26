@@ -7,9 +7,8 @@
   </div>
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=darshilshukla26&theme=black-ice&hide_border=true&type=png" alt="GitHub Streak" /></a>
   <div id="badges">
-    <a href="www.linkedin.com/in/darshil-shukla-943847202">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
+    <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="darshil-shukla-943847202" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/darshil-shukla-943847202?trk=profile-badge">Darshil Shukla</a></div>
+              
     <a href="(https://twitter.com/DarshilShukla26)">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
