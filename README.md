@@ -7,7 +7,7 @@
   </div>
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=darshilshukla26&theme=black-ice&hide_border=true&type=png" alt="GitHub Streak" /></a>
   <div id="badges">    
-    <a href="([https://twitter.com/DarshilShukla26](https://www.linkedin.com/in/darshil-shukla-943847202/))">
+    <a href="([https://twitter.com/DarshilShukla26](https://www.linkedin.com/in/darshil-shukla-26/))">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="(https://twitter.com/DarshilShukla26)">
