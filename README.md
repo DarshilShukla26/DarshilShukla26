@@ -94,7 +94,7 @@ fun_fact: I debug in production (just kidding... mostly)
 
 <div align="center">
 
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=darshilshukla26&show_icons=true&count_private=true&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=DarshilShukla26&show_icons=true&count_private=true&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" />
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshilshukla26&layout=compact&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=8" />
 
 </div>
@@ -103,9 +103,6 @@ fun_fact: I debug in production (just kidding... mostly)
   <img width="60%" src="https://streak-stats.demolab.com?user=darshilshukla26&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&dates=8b949e" />
 </div>
 
-> ⚠️ **Stats not loading?** GitHub's API has rate limits — try hard-refreshing the page or viewing directly on [github.com/darshilshukla26](https://github.com/darshilshukla26)
-
----
 
 ## 🏆 GitHub Trophies
 
