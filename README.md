@@ -14,7 +14,7 @@
   <a href="https://twitter.com/DarshilShukla26">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=darshilshukla26&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=DarshilShukla26&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS" alt="Profile Views"/>
 </p>
 
 </div>
@@ -95,19 +95,22 @@ fun_fact: I debug in production (just kidding... mostly)
 <div align="center">
 
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=DarshilShukla26&show_icons=true&count_private=true&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshilshukla26&layout=compact&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=8" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarshilShukla26&layout=compact&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=8" />
 
 </div>
 
 <div align="center">
-  <img width="60%" src="https://streak-stats.demolab.com?user=darshilshukla26&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&dates=8b949e" />
+  <img width="60%" src="https://streak-stats.demolab.com?user=DarshilShukla26&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&dates=8b949e" />
 </div>
 
+> ⚠️ **Stats not loading?** GitHub's API has rate limits — try hard-refreshing the page or viewing directly on [github.com/DarshilShukla26](https://github.com/DarshilShukla26)
+
+---
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=darshilshukla26&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=4" width="100%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=DarshilShukla26&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=4" width="100%"/>
 </div>
 
 ---
@@ -115,7 +118,7 @@ fun_fact: I debug in production (just kidding... mostly)
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=darshilshukla26&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DarshilShukla26&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" width="100%"/>
 </div>
 
 ---
