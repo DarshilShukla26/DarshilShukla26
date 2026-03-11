@@ -26,7 +26,7 @@
 ```yaml
 name: Darshil Shukla
 role: Full Stack Developer
-location: India 🇮🇳
+location: CA, United States
 focus: ["Web Development", "Cloud Architecture", "Open Source"]
 currently_learning: ["Microservices", "System Design", "DevOps"]
 fun_fact: I debug in production (just kidding... mostly)
